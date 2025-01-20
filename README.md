@@ -19,8 +19,8 @@ This phase focuses on implementing user authentication using Clerk.js within the
         * When signed in: Displays a "Profile" link and the `UserButton` for user management (sign in, sign out, profile).
 
 * **Home Page:**
-    * Added initial content to the Home page, welcoming users and providing a brief overview of the application.
-
+    * Added initial content to the Home page.
+    
 **Testing:**
 
 * Thoroughly tested the authentication flow, including successful login, logout, and navigation to different pages based on authentication status.
@@ -33,8 +33,7 @@ This phase establishes a solid foundation for user authentication, enabling secu
 * A well-structured and reusable `Header` component that adapts to user authentication state.
 * A basic Home page with initial content.
 
-![alt text](image.png)
-
+![alt text](image-2.png)
 ![alt text](image-1.png)
 <!---
 ## What's Clerk?
