@@ -126,8 +126,8 @@ This phase focuses on implementing user creating user profile and styling which 
 ![alt text](image.png)
 ![alt text](image-3.png)
 
-**Output:**
+**The Output Shown Are:**
 
-* **Functional User Profile:** Users can now view their basic profile information within the application.
-* **Enhanced Visual Appeal:** The application now features the `neobrutalism` theme, providing a more visually engaging user experience.
-* **Improved Typography:** Custom fonts enhance readability and contribute to a more polished look.
+* **A Functional User Profile:** Users can now view their basic profile information within the application.
+* **An Enhanced Visual Appeal:** The application now features the `neobrutalism` theme, providing a more visually engaging user experience.
+* **An Improved Typography:** Custom fonts enhance readability and contribute to a more polished look.
